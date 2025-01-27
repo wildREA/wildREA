@@ -9,6 +9,10 @@
 
 ###
 
+<img align="right" height="200" src="https://media.discordapp.net/attachments/691961394987532311/1333425471387340881/cat.jpg?ex=6798d8be&is=6797873e&hm=10e2cabe68af38535276e986562454777f5fcf431054469733e051288872af24&=&format=webp"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
