@@ -1,4 +1,4 @@
-<h2 align="left">Hey! A wildcat and IT student from Europe!</h2>
+<h2 align="left">[EN] Hey! A wildcat and IT student from Europe! | [RU] Здравстуйте! Дикая кошка и студент ИТ из Европы.</h2>
 
 ###
 
