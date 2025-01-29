@@ -116,9 +116,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/wildREA/wildREA/output/snake.svg" alt="Snake animation" />
-
-###
