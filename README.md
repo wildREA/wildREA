@@ -104,6 +104,17 @@
 ###
 
 <div align="left">
+  <h3 align="left">Used IDEs</h3>
+  <li align="left">++Notepad; Lua(u) scripting (currently using VSCode insteaD)</li>
+  <li align="left">Apache Netbeans; JDK server and Oracle database development</li>
+  <li align="left">PyCharm; Pyhon development (currently using VSCode instead)</li>
+  <li align="left">Visual Studio Enterprise; .NET application development (desktop)</li>
+  <li align="left">Visual Studio Code; Web- and app (w/ Electron) development</li>
+</div>
+
+###
+
+<div align="left">
   <a href="wildREA#8123" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
