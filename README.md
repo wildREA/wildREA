@@ -105,8 +105,8 @@
 
 <div align="left">
   <h3 align="left">Used IDEs</h3>
-  <li align="left">++Notepad; Lua(u) scripting (currently using VSCode insteaD)</li>
-  <li align="left">Apache Netbeans; JDK server and Oracle database development</li>
+  <li align="left">++Notepad; Lua(u) scripting (currently using VSCode instead)</li>
+  <li align="left">Apache Netbeans; JDK and Oracle database development</li>
   <li align="left">PyCharm; Pyhon development (currently using VSCode instead)</li>
   <li align="left">Visual Studio Enterprise; .NET application development (desktop)</li>
   <li align="left">Visual Studio Code; Web- and app (w/ Electron) development</li>
