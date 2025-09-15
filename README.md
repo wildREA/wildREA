@@ -108,6 +108,7 @@
   <li align="left">++Notepad; Lua(u) scripting (currently using VSCode instead)</li>
   <li align="left">Apache Netbeans; JDK and Oracle database development</li>
   <li align="left">PyCharm; Pyhon development (currently using VSCode instead)</li>
+  <li align="left">NeoVim; Arch Linux (LazyVim)
   <li align="left">Visual Studio Enterprise; .NET application development (desktop)</li>
   <li align="left">Visual Studio Code; Web- and app (w/ Electron) development</li>
 </div>
