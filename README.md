@@ -105,7 +105,7 @@
 
 <div align="left">
   <h3 align="left">Used IDEs</h3>
-  <li align="left">++Notepad; Lua(u) scripting (currently using VSCode instead)</li>
+  <li align="left">++Notepad; Small code edits</li>
   <li align="left">Apache Netbeans; JDK and Oracle database development</li>
   <li align="left">PyCharm; Pyhon development (currently using VSCode instead)</li>
   <li align="left">NeoVim; Arch Linux (LazyVim)
@@ -129,6 +129,9 @@
   </a>
   <a href="wildrealinit@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://gitlab.com/wildREA" target="_blank">
+    <img src="https://img.shields.io/gitlab/go-mod/go-version/:user/:repo"  />
   </a>
 </div>
 
